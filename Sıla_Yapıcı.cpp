@@ -366,7 +366,7 @@ void main(int argc, char *argv[]) {
 	glutInit(&argc, argv);
 	glutInitDisplayMode(GLUT_RGB | GLUT_DOUBLE);
 	glutInitWindowSize(WINDOW_WIDTH, WINDOW_HEIGHT);
-	glutCreateWindow("Sýla Yapýcý Q4");
+	glutCreateWindow("Sila Yapici");
 
 	glutDisplayFunc(display);
 	glutReshapeFunc(onResize);
