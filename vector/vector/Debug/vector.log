@@ -1,0 +1,4 @@
+﻿  Sıla_Yapıcı.cpp
+c:\users\hp\source\repos\164 final\vector\vector\sıla_yapıcı.cpp(191): warning C4838: 'int ile 'double arasında dönüştürme bir daraltma dönüştürmesi gerektiriyor
+c:\users\hp\source\repos\164 final\vector\vector\sıla_yapıcı.cpp(364): warning C4326: 'main' öğesinin dönüş türü 'int' olmalıdır, 'void' değil
+  vector.vcxproj -> C:\Users\HP\source\repos\164 FINAL\vector\Debug\vector.exe
